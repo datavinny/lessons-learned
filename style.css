@@ -1,9 +1,56 @@
 body {
     background-color: rgb(253, 251, 251);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
 }
 #cabecalho {
     top: 0px;
-    position: fixed;
-    background-color: wheat;
-    margin: 0px;
+    position: fixed; 
+    font-size: 10px;
+    background-color: rgb(60, 59, 110);
+    color: white;
+    height:50px ;
+    right: 0px;
+    left: 0px;
+display: block;
 }
+#minha_foto {
+    height:250px ;
+    width: 300px;
+top: 0px;
+display: fixed;
+border: 1px solid red;
+}
+#rodape {
+bottom: 0px;
+position: fixed;
+right: 0px;
+left: 0px;
+color: white;
+background-color: rgb(60, 59, 110);
+}
+#licoes_aprendidas {
+    
+}
+#licoes_a_aprender {
+   
+}
+#tabela {
+    background-color: #B22234;
+    color: white;
+    display: inline-block;
+}
+#bar {
+top: 100px;
+position: fixed;
+}
+#aside{
+    top: 350px;
+position: fixed;
+right: 0px;
+width: 300px;
+}
+#article {
+   
+ }
